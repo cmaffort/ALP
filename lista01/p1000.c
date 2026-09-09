@@ -7,5 +7,6 @@ int main() {
  
     printf("Hello World!\n");
 
+        // uma linha qualquer de nada com nada...
     return 0;
 }
